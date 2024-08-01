@@ -1,0 +1,1 @@
+ALTER TABLE concertos ADD cor VARCHAR(20);
